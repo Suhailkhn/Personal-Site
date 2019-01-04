@@ -1,0 +1,126 @@
+div {
+  margin-left: 0;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+  color: #66BFBF;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: 100;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #be3737;
+}
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.top-container {
+  background-color: #f1fff1;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container {
+
+}
+.bottom-container {
+  background-color: #c4f0c5;
+  padding: 50px 50px 10px 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+#my-photo {
+  border-radius: 50%;
+  width: 220px;
+  height: 220px;
+  margin-top: 100px;
+}
+a {
+  color: #6a0000;
+  text-decoration: none;
+}
+a.footer-link:hover {
+  color: white;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  padding-bottom: 50px;
+  text-align: left;
+}
+.coding {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.gamedev {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.contact-me {
+  padding-top: 0;
+  padding-bottom: 100px;
+}
+.copyright {
+  color: #f1fff1;
+  font-size: 0.725rem;
+}
+.footer-link {
+  margin: 30px;
+}
+p.copyright {
+  margin-top: 40px;
+}
+.attribution {
+  color: #f1fff1;
+}
+a.attribution:hover {
+  color: #6a0000;
+}
+hr {
+  border-style: dotted none none none;
+  border-top-width: 8px;
+  width: 4%;
+  margin: 100px auto;
+  color: #eae7e7;
+}
+
+.butn {
+  -webkit-border-radius: 18;
+  -moz-border-radius: 18;
+  border-radius: 18px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 25px;
+  background: #c4f0c5;
+  padding: 10px 25px 10px 25px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #6fa36f;
+  text-decoration: none;
+}
+p.contact-button {
+  margin-bottom: 70px;
+}
+p {
+  line-height: 2;
+}
